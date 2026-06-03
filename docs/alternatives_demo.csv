@@ -1,0 +1,7 @@
+price,power,consumption,habitability,name,comfort
+25500,85,7.0,4,Tourism-B,3
+38000,90,8.5,4,Luxury-1,5
+35000,85,9.0,5,Luxury-2,4
+29000,110,9.0,1,Sport,2
+26000,75,8.0,3,Tourism-A,3
+15000,50,7.5,2,Economic,1
